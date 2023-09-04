@@ -6,7 +6,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import datetime as datetime
 
-st.set_page_config(layout="wide")
+
 
 st.title("Stock Dashboard")
 
